@@ -1,0 +1,44 @@
+<html>
+<head><title>My Resume </title></head>
+<body>
+<table border="1"align="center" width="60%">
+<tr>
+<th><h1> Welcome To My Resumes!<h1></th></tr>
+<tr> <th> align-"left"><h2> ADARSH PULI</h2>
+<img scr="image/Nozz_ImageEditor.PNG file" align="right" height="150" width="300" border="1"/>
+<b> Owner At: Puli.com</b> <br>
+Mobile No:+8106030330 <br>
+Email Address :Kishore@hcl.com<br><br>
+<h2>Personal Information <h2>
+
+<ul>
+<li> Father Name:Puli.Srinu</li>
+<li> Religion : Hindu<li>
+<li> Date Birth: 28/12/2000</li>
+<li> Nationality:India</li>
+<li> Martial Status:Single</li><ul>
+<table border="1"> <tr> <th> Examination</th> <th> Divison </th> O.S University</th>
+</tr>
+<tr> <td> Matric (computer science)</td> <td> 1st </td> <td> T.s Board</td> </tr>
+<tr> <td> Ics (computer science)</td> <td> 1st </td> <td> T.s Board</td> </tr>
+<tr> <td> B.sc (computer science)</td> <td> 1st </td> <td> T.s Unversity</td> </tr>
+<tr> <td> Msc (Master in computer science)</td> <td> 1st </td> <td> p.k Board</td> </tr>
+
+<h2> Personal Certifcates & Skills:</h2>
+<ul><li> Ms word Excel,Power Point</li>
+<li> web designing(certified by p.k com)</li>
+<li> Life Skills Trainer(certified by A.N.U)</li>
+
+<h2> Experience </h2>
+---------
+---------
+--------- 
+<h2> Languages: </h2>
+<ul> telugu</ul>
+<ul> English </ul>
+
+
+
+
+
+
